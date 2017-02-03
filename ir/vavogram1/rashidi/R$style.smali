@@ -1,11 +1,11 @@
-.class public final Lcom/parsitelg/telegram/R$style;
+.class public final Lir/vavogram1/rashidi/R$style;
 .super Ljava/lang/Object;
 .source "R.java"
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/parsitelg/telegram/R;
+    value = Lir/vavogram1/rashidi/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;

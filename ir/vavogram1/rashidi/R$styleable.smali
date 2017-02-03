@@ -1,11 +1,11 @@
-.class public final Lcom/parsitelg/telegram/R$styleable;
+.class public final Lir/vavogram1/rashidi/R$styleable;
 .super Ljava/lang/Object;
 .source "R.java"
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/parsitelg/telegram/R;
+    value = Lir/vavogram1/rashidi/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -938,7 +938,7 @@
 
     fill-array-data v0, :array_0
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ActionBar:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ActionBar:[I
 
     new-array v0, v5, [I
 
@@ -946,7 +946,7 @@
 
     aput v1, v0, v3
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ActionBarLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ActionBarLayout:[I
 
     new-array v0, v5, [I
 
@@ -954,11 +954,11 @@
 
     aput v1, v0, v3
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ActionMenuItemView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ActionMenuItemView:[I
 
     new-array v0, v3, [I
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ActionMenuView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ActionMenuView:[I
 
     const/4 v0, 0x6
 
@@ -966,13 +966,13 @@
 
     fill-array-data v0, :array_1
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ActionMode:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ActionMode:[I
 
     new-array v0, v4, [I
 
     fill-array-data v0, :array_2
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ActivityChooserView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ActivityChooserView:[I
 
     const/4 v0, 0x6
 
@@ -980,25 +980,25 @@
 
     fill-array-data v0, :array_3
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->AlertDialog:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->AlertDialog:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_4
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->AppBarLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->AppBarLayout:[I
 
     new-array v0, v4, [I
 
     fill-array-data v0, :array_5
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->AppBarLayout_LayoutParams:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->AppBarLayout_LayoutParams:[I
 
     new-array v0, v4, [I
 
     fill-array-data v0, :array_6
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->AppCompatTextView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->AppCompatTextView:[I
 
     new-array v0, v5, [I
 
@@ -1006,13 +1006,13 @@
 
     aput v1, v0, v3
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ButtonBarLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ButtonBarLayout:[I
 
     new-array v0, v4, [I
 
     fill-array-data v0, :array_7
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->CollapsingAppBarLayout_LayoutParams:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->CollapsingAppBarLayout_LayoutParams:[I
 
     const/16 v0, 0xe
 
@@ -1020,25 +1020,25 @@
 
     fill-array-data v0, :array_8
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->CollapsingToolbarLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->CollapsingToolbarLayout:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_9
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->CompoundButton:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->CompoundButton:[I
 
     new-array v0, v4, [I
 
     fill-array-data v0, :array_a
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->CoordinatorLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->CoordinatorLayout:[I
 
     new-array v0, v6, [I
 
     fill-array-data v0, :array_b
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->CoordinatorLayout_LayoutParams:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->CoordinatorLayout_LayoutParams:[I
 
     const/16 v0, 0x8
 
@@ -1046,7 +1046,7 @@
 
     fill-array-data v0, :array_c
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->DrawerArrowToggle:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->DrawerArrowToggle:[I
 
     const/4 v0, 0x7
 
@@ -1054,13 +1054,13 @@
 
     fill-array-data v0, :array_d
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->FloatingActionButton:[I
+    sput-object v0, Lir/vavogram1/rashidiR$styleable;->FloatingActionButton:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_e
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ForegroundLinearLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ForegroundLinearLayout:[I
 
     const/16 v0, 0x9
 
@@ -1068,7 +1068,7 @@
 
     fill-array-data v0, :array_f
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->LinearLayoutCompat:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->LinearLayoutCompat:[I
 
     const/4 v0, 0x4
 
@@ -1076,19 +1076,19 @@
 
     fill-array-data v0, :array_10
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->LinearLayoutCompat_Layout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->LinearLayoutCompat_Layout:[I
 
     new-array v0, v4, [I
 
     fill-array-data v0, :array_11
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ListPopupWindow:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ListPopupWindow:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_12
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->LoadingImageView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->LoadingImageView:[I
 
     const/16 v0, 0x17
 
@@ -1096,7 +1096,7 @@
 
     fill-array-data v0, :array_13
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->MapAttrs:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->MapAttrs:[I
 
     const/4 v0, 0x6
 
@@ -1104,7 +1104,7 @@
 
     fill-array-data v0, :array_14
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->MenuGroup:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->MenuGroup:[I
 
     const/16 v0, 0x11
 
@@ -1112,7 +1112,7 @@
 
     fill-array-data v0, :array_15
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->MenuItem:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->MenuItem:[I
 
     const/16 v0, 0x8
 
@@ -1120,7 +1120,7 @@
 
     fill-array-data v0, :array_16
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->MenuView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->MenuView:[I
 
     const/16 v0, 0xa
 
@@ -1128,13 +1128,13 @@
 
     fill-array-data v0, :array_17
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->NavigationView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->NavigationView:[I
 
     new-array v0, v4, [I
 
     fill-array-data v0, :array_18
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->PopupWindow:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->PopupWindow:[I
 
     new-array v0, v5, [I
 
@@ -1142,13 +1142,13 @@
 
     aput v1, v0, v3
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->PopupWindowBackgroundState:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->PopupWindowBackgroundState:[I
 
     new-array v0, v6, [I
 
     fill-array-data v0, :array_19
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->RecyclerView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->RecyclerView:[I
 
     new-array v0, v5, [I
 
@@ -1156,7 +1156,7 @@
 
     aput v1, v0, v3
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ScrimInsetsFrameLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ScrimInsetsFrameLayout:[I
 
     new-array v0, v5, [I
 
@@ -1164,7 +1164,7 @@
 
     aput v1, v0, v3
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ScrollingViewBehavior_Params:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ScrollingViewBehavior_Params:[I
 
     const/16 v0, 0x11
 
@@ -1172,19 +1172,19 @@
 
     fill-array-data v0, :array_1a
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->SearchView:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->SearchView:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_1b
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->SignInButton:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->SignInButton:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_1c
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->SnackbarLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->SnackbarLayout:[I
 
     const/4 v0, 0x4
 
@@ -1192,7 +1192,7 @@
 
     fill-array-data v0, :array_1d
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->Spinner:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->Spinner:[I
 
     const/16 v0, 0xa
 
@@ -1200,7 +1200,7 @@
 
     fill-array-data v0, :array_1e
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->SwitchCompat:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->SwitchCompat:[I
 
     const/16 v0, 0x10
 
@@ -1208,7 +1208,7 @@
 
     fill-array-data v0, :array_1f
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->TabLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->TabLayout:[I
 
     const/16 v0, 0x9
 
@@ -1216,7 +1216,7 @@
 
     fill-array-data v0, :array_20
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->TextAppearance:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->TextAppearance:[I
 
     const/16 v0, 0xa
 
@@ -1224,7 +1224,7 @@
 
     fill-array-data v0, :array_21
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->TextInputLayout:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->TextInputLayout:[I
 
     const/16 v0, 0x6e
 
@@ -1232,7 +1232,7 @@
 
     fill-array-data v0, :array_22
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->Theme:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->Theme:[I
 
     const/16 v0, 0x19
 
@@ -1240,25 +1240,25 @@
 
     fill-array-data v0, :array_23
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->Toolbar:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->Toolbar:[I
 
     new-array v0, v6, [I
 
     fill-array-data v0, :array_24
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->View:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->View:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_25
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ViewBackgroundHelper:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ViewBackgroundHelper:[I
 
     new-array v0, v2, [I
 
     fill-array-data v0, :array_26
 
-    sput-object v0, Lcom/parsitelg/telegram/R$styleable;->ViewStubCompat:[I
+    sput-object v0, Lir/vavogram1/rashidi/R$styleable;->ViewStubCompat:[I
 
     return-void
 

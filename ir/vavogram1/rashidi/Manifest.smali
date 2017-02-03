@@ -1,4 +1,4 @@
-.class public final Lcom/parsitelg/telegram/Manifest;
+.class public final Lir/vavogram1/rashidi/Manifest;
 .super Ljava/lang/Object;
 .source "Manifest.java"
 
@@ -6,7 +6,7 @@
 # annotations
 .annotation system Ldalvik/annotation/MemberClasses;
     value = {
-        Lcom/parsitelg/telegram/Manifest$permission;
+        Lir/vavogram1/rashidi/Manifest$permission;
     }
 .end annotation
 

@@ -1,11 +1,11 @@
-.class public final Lcom/parsitelg/telegram/Manifest$permission;
+.class public final Lir/vavogram1/rashidi/Manifest$permission;
 .super Ljava/lang/Object;
 .source "Manifest.java"
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/parsitelg/telegram/Manifest;
+    value = Lir/vavogram1/rashidi/Manifest;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;

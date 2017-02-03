@@ -1,4 +1,4 @@
-.class public final Lcom/parsitelg/telegram/BuildConfig;
+.class public final Lir/vavogram1/rashidi/BuildConfig;
 .super Ljava/lang/Object;
 .source "BuildConfig.java"
 
